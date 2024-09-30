@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "brand": "Apple",
+        "model": "iPhone 14",
+        "price": 999
+    },
+    {
+        "id": 2,
+        "brand": "Samsung",
+        "model": "Galaxy S21",
+        "price": 799
+    },
+    {
+        "id": 3,
+        "brand": "Google",
+        "model": "Pixel 7",
+        "price": 699
+    },
+    {
+        "id": 4,
+        "brand": "OnePlus",
+        "model": "OnePlus 9",
+        "price": 729
+    },
+    {
+        "id": 5,
+        "brand": "Sony",
+        "model": "Xperia 5 II",
+        "price": 949
+    },
+    {
+        "id": 6,
+        "brand": "Xiaomi",
+        "model": "Mi 11 Ultra",
+        "price": 749
+    },
+    {
+        "id": 7,
+        "brand": "Oppo",
+        "model": "Find X3 Pro",
+        "price": 899
+    },
+    {
+        "id": 8,
+        "brand": "Huawei",
+        "model": "Mate 40 Pro",
+        "price": 899
+    },
+    {
+        "id": 9,
+        "brand": "Nokia",
+        "model": "Nokia 8.3",
+        "price": 599
+    },
+    {
+        "id": 10,
+        "brand": "LG",
+        "model": "Wing 5G",
+        "price": 999
+    },
+    {
+        "id": 11,
+        "brand": "Motorola",
+        "model": "Moto G100",
+        "price": 499
+    },
+    {
+        "id": 12,
+        "brand": "Realme",
+        "model": "Realme GT",
+        "price": 599
+    },
+    {
+        "id": 13,
+        "brand": "Asus",
+        "model": "ROG Phone 5",
+        "price": 999
+    },
+    {
+        "id": 14,
+        "brand": "Vivo",
+        "model": "X60 Pro",
+        "price": 799
+    },
+    {
+        "id": 15,
+        "brand": "Honor",
+        "model": "Honor 50",
+        "price": 599
+    },
+    {
+        "id": 16,
+        "brand": "Lenovo",
+        "model": "Legion Phone Duel 2",
+        "price": 899
+    },
+    {
+        "id": 17,
+        "brand": "ZTE",
+        "model": "Axon 30 Ultra",
+        "price": 749
+    },
+    {
+        "id": 18,
+        "brand": "Alcatel",
+        "model": "1S",
+        "price": 199
+    },
+    {
+        "id": 19,
+        "brand": "TCL",
+        "model": "20 Pro 5G",
+        "price": 499
+    },
+    {
+        "id": 20,
+        "brand": "BlackBerry",
+        "model": "Key2",
+        "price": 599
+    }
+]
